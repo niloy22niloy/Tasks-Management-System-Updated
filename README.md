@@ -22,7 +22,8 @@ This Task Management System Is a project which allows a author to create task,ma
 - **php artisan db:seed --class=RoleSeeder**
 - **php artisan serve**
 
-## Contributing
+## Disclaimer
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+You must have to use mailtrap smtp username,passoword Or Gmail App Permission username,password into the .env file To run some of the features.
 
+https://github.com/niloy22niloy/Tasks-Management-System-Updated/edit/main/README.md
