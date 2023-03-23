@@ -25,5 +25,7 @@ This Task Management System Is a project which allows a author to create task,ma
 ## Disclaimer
 
 You must have to use mailtrap smtp username,passoword Or Gmail App Permission username,password into the .env file To run some of the features.
+Here is the Mailtrap link: https://mailtrap.io/home
 
-https://github.com/niloy22niloy/Tasks-Management-System-Updated/edit/main/README.md
+
+
